@@ -1,0 +1,18 @@
+c:\users\inga\documents\visual studio 2015\Projects\Calc1\Calc1\bin\Debug\Calc1.exe.config
+C:\Users\inga\Documents\Visual Studio 2015\Projects\Calc1\Calc1\bin\Debug\Calc1.exe
+C:\Users\inga\Documents\Visual Studio 2015\Projects\Calc1\Calc1\bin\Debug\Calc1.pdb
+C:\Users\inga\Documents\Visual Studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.csprojResolveAssemblyReference.cache
+C:\Users\inga\Documents\Visual Studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.Form1.resources
+C:\Users\inga\Documents\Visual Studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.Properties.Resources.resources
+C:\Users\inga\Documents\Visual Studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.csproj.GenerateResource.Cache
+C:\Users\inga\Documents\Visual Studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\inga\Documents\Visual Studio 2015\Projects\Calc1\Calc1\obj\Debug\Calc1.pdb
+C:\Users\inga\Documents\2015\Programming\LABS\Calc1\Calc1\bin\Debug\Calc1.exe.config
+C:\Users\inga\Documents\2015\Programming\LABS\Calc1\Calc1\obj\Debug\Calc1.exe
+C:\Users\inga\Documents\2015\Programming\LABS\Calc1\Calc1\obj\Debug\Calc1.pdb
+C:\Users\inga\Documents\2015\Programming\LABS\Calc1\Calc1\bin\Debug\Calc1.exe
+C:\Users\inga\Documents\2015\Programming\LABS\Calc1\Calc1\bin\Debug\Calc1.pdb
+C:\Users\inga\Documents\2015\Programming\LABS\Calc1\Calc1\obj\Debug\Calc1.csprojResolveAssemblyReference.cache
+C:\Users\inga\Documents\2015\Programming\LABS\Calc1\Calc1\obj\Debug\Calc1.Form1.resources
+C:\Users\inga\Documents\2015\Programming\LABS\Calc1\Calc1\obj\Debug\Calc1.Properties.Resources.resources
+C:\Users\inga\Documents\2015\Programming\LABS\Calc1\Calc1\obj\Debug\Calc1.csproj.GenerateResource.Cache

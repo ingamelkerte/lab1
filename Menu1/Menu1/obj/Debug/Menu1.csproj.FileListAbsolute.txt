@@ -1,0 +1,18 @@
+c:\users\inga\documents\visual studio 2015\Projects\Menu1\Menu1\bin\Debug\Menu1.exe.config
+c:\users\inga\documents\visual studio 2015\Projects\Menu1\Menu1\bin\Debug\Menu1.exe
+c:\users\inga\documents\visual studio 2015\Projects\Menu1\Menu1\bin\Debug\Menu1.pdb
+c:\users\inga\documents\visual studio 2015\Projects\Menu1\Menu1\obj\Debug\Menu1.csprojResolveAssemblyReference.cache
+c:\users\inga\documents\visual studio 2015\Projects\Menu1\Menu1\obj\Debug\Menu1.Form1.resources
+c:\users\inga\documents\visual studio 2015\Projects\Menu1\Menu1\obj\Debug\Menu1.Properties.Resources.resources
+c:\users\inga\documents\visual studio 2015\Projects\Menu1\Menu1\obj\Debug\Menu1.csproj.GenerateResource.Cache
+c:\users\inga\documents\visual studio 2015\Projects\Menu1\Menu1\obj\Debug\Menu1.exe
+c:\users\inga\documents\visual studio 2015\Projects\Menu1\Menu1\obj\Debug\Menu1.pdb
+C:\Users\inga\Documents\2015\Programming\LABS\Menu1\Menu1\bin\Debug\Menu1.exe.config
+C:\Users\inga\Documents\2015\Programming\LABS\Menu1\Menu1\obj\Debug\Menu1.exe
+C:\Users\inga\Documents\2015\Programming\LABS\Menu1\Menu1\obj\Debug\Menu1.pdb
+C:\Users\inga\Documents\2015\Programming\LABS\Menu1\Menu1\bin\Debug\Menu1.exe
+C:\Users\inga\Documents\2015\Programming\LABS\Menu1\Menu1\bin\Debug\Menu1.pdb
+C:\Users\inga\Documents\2015\Programming\LABS\Menu1\Menu1\obj\Debug\Menu1.csprojResolveAssemblyReference.cache
+C:\Users\inga\Documents\2015\Programming\LABS\Menu1\Menu1\obj\Debug\Menu1.Form1.resources
+C:\Users\inga\Documents\2015\Programming\LABS\Menu1\Menu1\obj\Debug\Menu1.Properties.Resources.resources
+C:\Users\inga\Documents\2015\Programming\LABS\Menu1\Menu1\obj\Debug\Menu1.csproj.GenerateResource.Cache
